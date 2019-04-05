@@ -10,12 +10,21 @@ Just pick one of the projects and share your solution.
 - [Social Media Sentiment Analysis](#social-media-sentiment-analysis)
 #### Regression
 - [Stock Prices Prediction](#stock-prices-prediction)
+#### Reinforcement Learning
+- [Minesweeper Solver](#minesweeper-solver)
 
 ### Projects
 #### Biometric Facial Recognition
 ##### Datasets:
 - [60 Facial Recognition Databases](https://www.kairos.com/blog/60-facial-recognition-databases)
 - [IMDB-WIKI – 500k+ face images with age and gender labels](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+#### Minesweeper Solver
+##### Helpful resources
+- [Minesweeper using Reinforcement Learning](https://hanialmousli.wordpress.com/2017/10/11/minesweeper-using-reinforcement-learning/)
+- [jakejhansen/minesweeper_solver](https://github.com/jakejhansen/minesweeper_solver)
+- [Training a Minesweeper Solver](http://cs229.stanford.edu/proj2015/372_report.pdf)
+- [Minesweeper game](https://rosettacode.org/wiki/Minesweeper_game)
+- [nmayorov/minesweeper](https://github.com/nmayorov/minesweeper)
 #### MNIST Handwritten Digit Classification
 ##### Datasets:
 - [MNIST Database](http://yann.lecun.com/exdb/mnist/)

@@ -7,6 +7,7 @@ Just pick one of the projects and share your solution.
 #### Classification
 - [Biometric Facial Recognition](#biometric-facial-recognition)
 - [MNIST Handwritten Digit Classification](#mnist-handwritten-digit-classification)
+- [Music Genre Classification](#music-genre-classification)
 - [Social Media Sentiment Analysis](#social-media-sentiment-analysis)
 #### Regression
 - [Stock Prices Prediction](#stock-prices-prediction)
@@ -28,6 +29,12 @@ Just pick one of the projects and share your solution.
 #### MNIST Handwritten Digit Classification
 ##### Datasets:
 - [MNIST Database](http://yann.lecun.com/exdb/mnist/)
+#### Music Genre Classification
+##### Datasets:
+- [Marsyas Datasets](http://marsyas.info/downloads/datasets.html)
+##### Helpful resources
+- [LibROSA - python package for music and audio analysis](https://librosa.github.io/librosa/)
+- [Music Genre Classification with Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
 #### Social Media Sentiment Analysis
 ##### Datasets:
 - [Twitter API](https://dev.twitter.com/streaming/overview)
